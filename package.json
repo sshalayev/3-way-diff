@@ -1,0 +1,30 @@
+{
+  "name": "3-way-diff",
+  "version": "1.0.0",
+  "description": "Toolset for bulding 2 and 3 way diff of sequences",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshalayev/3-way-diff.git"
+  },
+  "keywords": [
+    "diff",
+    "Levenshtein",
+    "edit",
+    "distance"
+  ],
+  "author": "Sergey Shalayev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sshalayev/3-way-diff/issues"
+  },
+  "homepage": "https://github.com/sshalayev/3-way-diff#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "htmlparser2": "^3.9.2"
+  }
+}
