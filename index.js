@@ -9,5 +9,7 @@
     'use strict';
     const DiffMerge = require('./src/DiffMerge');
     const HTMLConverter = require('./src/HTMLConverter');
-    return {DiffMerge, HTMLConverter}
+    const LCS = require('./src/LCS');
+    const SequenceDiffer = require('./src/SequenceDiffer');
+    return {DiffMerge, HTMLConverter, LCS, SequenceDiffer}
 })));

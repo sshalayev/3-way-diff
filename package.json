@@ -1,6 +1,6 @@
 {
   "name": "3-way-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toolset for bulding 2 and 3 way diff of sequences",
   "main": "index.js",
   "scripts": {
